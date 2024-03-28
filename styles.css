@@ -1,8 +1,7 @@
 /* css styles for index.html */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Tahoma;
     background-color: #121212;
-    color: #E0E0E0;
     text-align: center;
     display: flex;
     justify-content: center;
