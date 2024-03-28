@@ -1,4 +1,3 @@
-/* css styles for index.html */
 body {
     font-family: Tahoma;
     background-color: #121212;
@@ -12,8 +11,4 @@ body {
 h1 {
     font-size: 2.5em;
     color: #BB86FC;
-}
-
-html {
-    box-sizing: border-box;
 }
